@@ -11,7 +11,7 @@ https://github.com/Ahmed-Anwar-2001/CSE431/blob/main/Task-06/2023_Spring_Utilizi
 
 
 Conference submitted paper / paper submission / login Link:
-
+https://cmt3.research.microsoft.com/EICT2023/Track/1/Submission/Create
 
 Paper title:
 Utilizing Optical Character Recognition to Summarize Bengali text
