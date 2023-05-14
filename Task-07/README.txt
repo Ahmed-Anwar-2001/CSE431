@@ -3,15 +3,28 @@ https://www.overleaf.com/1781669765dbdjgbcrryqf
 
 
 Link to unlisted YouTube video:
-Task-6: https://youtu.be/hoislK-RyZA
+Task-7: https://youtu.be/hoislK-RyZA
 
 
 Public link to the draft (Anyone on the internet can view without login):
 https://github.com/Ahmed-Anwar-2001/CSE431/blob/main/Task-06/2023_Spring_Utilizing_Optical_Character_Recognition_to_Summarize_Bengali_text.pdf
 
 
-Project title:
+Conference submitted paper / paper submission / login Link:
+
+
+Paper title:
 Utilizing Optical Character Recognition to Summarize Bengali text
+
+
+Paper submission ID: 
+
+
+Conference Name: 
+
+
+Conference URL:
+
 
 Group Number:
 27
